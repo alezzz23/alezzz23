@@ -75,7 +75,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📋 Metodologías
-![Agiles](https://img.shields.io/badge/Agiles-009639?style=for-the-badge&logo=agile&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009639?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=tdd&logoColor=white)
@@ -138,12 +138,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=alezzz23&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezzz23&layout=compact&langs_count=7&theme=matrix"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=alezzz23&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=00ff41&icon_color=00ff41&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezzz23&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=00ff41"/>
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=alezzz23&theme=matrix" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=alezzz23&theme=dark&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=666666" alt="GitHub Streak" />
 </div>
 
 <div align="center">
