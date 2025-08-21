@@ -1,14 +1,27 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:008000,100:004000&height=150&section=header&text=Alejandro&fontSize=40&fontColor=00ff00&animation=fadeIn&fontAlignY=40" alt="Matrix Header" />
-</div>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Alejandro+👋;Desarrollador+Full+Stack;Apasionado+por+la+tecnología" alt="Typing SVG" />
-</h1>
+<p>
+  <h1 align="center"><b>Hola, Soy Alejandro</b></h1>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=3000&color=00FF41&center=true&vCenter=true&width=800&lines=console.log('Welcome+to+the+Matrix...');+//+Iniciando+sistema;while(true)+{+code();+learn();+innovate();+}" alt="Matrix Code" />
-</div>
+<p>
+  <h4 align="center"><b><i>Entre más error más aprendes, Entre más aprendes menos errores</i></b></h4>
+</p>
+
+<p align="center">
+    <img align="center" alt="spot" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
+
+<p align="center">
+<br>
+
+<a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+<br>
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ---
 
