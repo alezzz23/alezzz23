@@ -86,40 +86,45 @@
 ## 🌟 Proyectos Destacados
 
 ### 🧠 [NeuroTeach - Plataforma Educativa con IA Emocional](https://github.com/alezzz23/NeuroTeach)
-**Plataforma educativa innovadora que utiliza inteligencia artificial para detectar emociones y adaptar el contenido de aprendizaje**
+**Plataforma innovadora que utiliza affective computing y modelos de lenguaje avanzados para adaptar el contenido educativo según el estado emocional y rendimiento cognitivo**
 
-**🔧 Tecnologías:** React, Node.js, Express, MongoDB, Python, TensorFlow, OpenCV
+**🔧 Tecnologías:** NestJS (TypeScript), React, PostgreSQL, Neo4j, Python (DeepFace), OpenAI/Llama, TensorFlow.js, Three.js
 
 **✨ Características principales:**
-- 🎭 **Detección de emociones en tiempo real** usando análisis facial
-- 📚 **Contenido adaptativo** basado en el estado emocional del estudiante
-- 🐳 **Arquitectura containerizada** con Docker para fácil despliegue
-- 📊 **Dashboard analítico** para seguimiento del progreso emocional
-- 🔐 **Sistema de autenticación** robusto y seguro
+- 🧠 **Affective Computing** con detección de emociones (aburrimiento, confusión, frustración) vía webcam
+- 🤖 **Tutor de IA emocional** con generación de explicaciones alternativas según estado emocional
+- 📊 **Análisis de patrones** usando regresión bayesiana para predecir puntos de quiebre en el aprendizaje
+- 🗺️ **Mapa mental interactivo** y rutas de aprendizaje personalizadas
+- 🧬 **Algoritmos genéticos** para optimización de contenido educativo
+- 🐳 **Arquitectura de microservicios** con Python (DeepFace) y NestJS
 
 ### 🌐 [NetWatch - Monitor de Red Avanzado](https://github.com/alezzz23/NetWatch)
-**Sistema completo de monitoreo de red con interfaz web moderna y alertas en tiempo real**
+**Monitor de red avanzado en tiempo real con interfaz de terminal (TUI) desarrollado en Go**
 
-**🔧 Tecnologías:** Python, Flask, JavaScript, Chart.js, SQLite, Docker
-
-**✨ Características principales:**
-- 📡 **Monitoreo en tiempo real** de dispositivos de red
-- 📊 **Visualización de datos** con gráficos interactivos
-- 🚨 **Sistema de alertas** configurable
-- 🐳 **Despliegue con Docker** para máxima portabilidad
-- 📱 **Interfaz responsive** adaptable a cualquier dispositivo
-
-### 🎯 [SGERM - Sistema de Gestión de Eventos](https://github.com/alezzz23/-Sistema-de-Gestion-de-Eventos-y-Reservas-SGERM-)
-**Sistema integral para la gestión y reserva de eventos con funcionalidades avanzadas**
-
-**🔧 Tecnologías:** PHP, MySQL, JavaScript, Bootstrap, HTML5, CSS3
+**🔧 Tecnologías:** Go 1.21+, Docker, Terminal UI, Network Monitoring, ASCII Graphics
 
 **✨ Características principales:**
-- 📅 **Gestión completa de eventos** con calendario interactivo
-- 🎫 **Sistema de reservas** automatizado
-- 👥 **Panel administrativo** para gestión de usuarios
-- 📊 **Reportes y estadísticas** detalladas
-- 💳 **Integración de pagos** segura
+- 🖥️ **Dashboard en tiempo real** con gráficos ASCII animados y navegación por teclas
+- 🔍 **Detección automática** de dispositivos en la red local con estado en tiempo real
+- 📊 **Monitoreo de tráfico** por aplicación/proceso con análisis de latencia y pérdida de paquetes
+- 🚨 **Sistema de alertas** configurable con múltiples vistas (General, Dispositivos, Red, Alertas, Métricas)
+- 🐳 **Arquitectura modular** con microservicios para discovery, metrics, alerts y storage
+- ⚡ **Alto rendimiento** con permisos NET_ADMIN y NET_RAW para monitoreo completo de red
+
+### 🎯 [SGERM - Sistema de Gestión de Eventos y Reservas](https://github.com/alezzz23/-Sistema-de-Gestion-de-Eventos-y-Reservas-SGERM-)
+**Aplicación REST API completa para la gestión integral de eventos y reservas desarrollada con Spring Boot**
+
+**🔧 Tecnologías:** Spring Boot 3.2.0, Java 17+, PostgreSQL, Redis, Spring Security, Spring Data JPA, Docker
+
+**✨ Características principales:**
+- 🔌 **API REST completa** con endpoints CRUD para todas las operaciones
+- 👥 **Gestión de usuarios** con roles (USER, ORGANIZER, ADMIN) y autenticación
+- 🎪 **Gestión de eventos** con categorización y control de capacidad
+- 🎫 **Sistema de reservas** con códigos QR únicos y check-in
+- 📧 **Notificaciones por email** con plantillas HTML
+- 🛠️ **Gestión de recursos** con control de inventario y costos
+- 📊 **Documentación integrada** con interfaz web para endpoints
+- 🐳 **Containerización** con Docker & Docker Compose
 
 ### 🚀 [Landing Jornada 2025](https://github.com/alezzz23/landing-jornada-2025)
 **Landing page moderna y atractiva para evento tecnológico**
