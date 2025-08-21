@@ -76,7 +76,7 @@
 
 ### 📋 Metodologías
 ![Agiles](https://img.shields.io/badge/Agiles-009639?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=aafor-the-badge&logo=scrum&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=tdd&logoColor=white)
 ![BDD](https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=bdd&logoColor=white)
@@ -147,7 +147,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alezzz23&theme=matrix&width=800&height=300" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alezzz23&theme=matrix&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -173,9 +173,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alezzz23&label=Visitas%20al%20perfil&color=00ff00&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Matrix-Style-00ff00?style=for-the-badge&logo=matrix&logoColor=black" alt="Matrix Style" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:008000,100:004000&height=100&section=footer" alt="Matrix Footer" />
 </div>
