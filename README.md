@@ -73,7 +73,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📋 Metodologías
-![Agiles](https://img.shields.io/badge/Agile-009639?style=for-the-badge&logo=agile&logoColor=white)
+![Agiles](https://img.shields.io/badge/Agiles-009639?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=tdd&logoColor=white)
